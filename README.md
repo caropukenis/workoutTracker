@@ -6,7 +6,7 @@
 
 
 ## Description
-This is a fitness tracking application that uses Monoose Compass to store the user entries. 
+This is a fitness tracking app, created using Mongoose and MongoDB Compass for the user entry. 
 
 ## Installation
 Step 1:
