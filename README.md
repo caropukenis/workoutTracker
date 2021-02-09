@@ -1,4 +1,4 @@
-# workoutTracker
+# Workout Tracker
 
 ![Website Tutorial](https://github.com/caropukenis/workoutTracker/blob/main/public/images/FitnessTracker.gif)
 
